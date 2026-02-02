@@ -1,0 +1,17 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Blank Project.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Renderer.cpp
+C:\Users\wjoe5\OneDrive\Desktop\School\openglVolcano\Blank Project\Renderer.cpp(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\wjoe5\OneDrive\Desktop\School\openglVolcano\Blank Project\Renderer.cpp(214,27): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  LINK : C:\Users\wjoe5\OneDrive\Desktop\School\openglVolcano\x64\Debug\Project 1.exe not found or not built by the last incremental link; performing full link
+nclgl.lib(Shader.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
+nclgl.lib(OGLRenderer.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
+nclgl.lib(Keyboard.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
+nclgl.lib(Window.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
+nclgl.lib(Matrix4.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
+nclgl.lib(Mesh.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
+nclgl.lib(SceneNode.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
+nclgl.lib(Camera.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
+nclgl.lib(Mouse.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
+nclgl.lib(GameTimer.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
+nclgl.lib(Matrix2.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
+  BlankProject.vcxproj -> C:\Users\wjoe5\OneDrive\Desktop\School\openglVolcano\x64\Debug\Project 1.exe
