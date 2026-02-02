@@ -29,7 +29,7 @@
 .vs/
 
 #ZIP Files
-.zip
+*.zip
 
 # Misc
-.docx
+*.docx
